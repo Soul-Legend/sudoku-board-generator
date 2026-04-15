@@ -1,4 +1,4 @@
-# Sudoku Board Generator
+<img width="715" height="884" alt="image" src="https://github.com/user-attachments/assets/8a914023-e16a-48c0-8ada-f70d008fbb1e" /># Sudoku Board Generator
 
 Generate unique Sudoku puzzles of any N×N size and export them as formatted PDFs. Every puzzle is guaranteed to have a unique solution, and the tool remembers all previously generated boards to ensure you never get a duplicate.
 
@@ -117,3 +117,9 @@ pytest tests/ -v
 3. The hash is stored in an indexed SQLite column
 4. Before accepting any new puzzle, the hash is checked — O(1) lookup
 5. The database persists across runs in `data/sudoku.db`
+
+
+<img width="715" height="884" alt="image" src="https://github.com/user-attachments/assets/371f054b-e4f4-45c4-a3f4-ec505036ac6a" />
+
+
+7. 
