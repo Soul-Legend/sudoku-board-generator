@@ -1,6 +1,6 @@
 # Sudoku Board Generator
 
-Generate unique Sudoku puzzles of any N×N size and export them as beautifully formatted PDFs. Every puzzle is guaranteed to have a unique solution, and the tool remembers all previously generated boards to ensure you never get a duplicate.
+Generate unique Sudoku puzzles of any N×N size and export them as formatted PDFs. Every puzzle is guaranteed to have a unique solution, and the tool remembers all previously generated boards to ensure you never get a duplicate.
 
 ## Features
 
